@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'CarHunt',
 
   // open graph metadata (optional)
-  description: 'Blog CarHunt',
+  description: 'Blog CarHunt - Encontre a melhor opção',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
